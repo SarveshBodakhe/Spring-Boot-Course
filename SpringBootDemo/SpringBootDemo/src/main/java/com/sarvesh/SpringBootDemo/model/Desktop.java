@@ -1,4 +1,4 @@
-package com.sarvesh.SpringBootDemo;
+package com.sarvesh.SpringBootDemo.model;
 
 import org.springframework.stereotype.Component;
 

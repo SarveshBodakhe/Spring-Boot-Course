@@ -1,4 +1,4 @@
-package com.sarvesh.SpringBootDemo;
+package com.sarvesh.SpringBootDemo.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
