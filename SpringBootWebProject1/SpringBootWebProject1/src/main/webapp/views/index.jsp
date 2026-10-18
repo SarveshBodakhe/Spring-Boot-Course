@@ -2,7 +2,7 @@
 
 <html>
     <body>
-        <h2>Sarvesh calculator</h2>
+        <h2>Sarvesh Calculator</h2>
 
         <form action="add">
             <label for="num1">Enter 1st Number: </label>
